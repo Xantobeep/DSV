@@ -1,2 +1,3 @@
 # DSV
-Open source ecosystem for the advancement of decentralized finance solutions.
+Open source project for the advancement of decentralized finance solutions.
+DSV utilizes the Cosmos SDK framework to build and secure the native network.
